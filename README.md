@@ -96,10 +96,11 @@ Created a free domain name with https://freedns.afraid.org
 
 
  **Before SSL configuration**
-![before](assets\before.png)
+![Before](assets/before.png)
+
   
 **After SSL configuration**
-![After](assets\after.png)
+![After](assets/after.png)
 
 
 
