@@ -96,7 +96,7 @@ Created a free domain name with https://freedns.afraid.org
 
 
  **Before SSL configuration**
-![Before](https://raw.githubusercontent.com/Derakings/Alt-Host/main/assets/before.png)
+![Before](assets/before.png)
 
   
 **After SSL configuration**
