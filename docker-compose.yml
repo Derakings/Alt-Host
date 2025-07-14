@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    ports:
+      - "80:80"
+    restart: unless-stopped
+    container_name: clicKart-web
+    volumes:
+      - ./assets:/usr/share/nginx/html/assets:ro
+    environment:
+      - NODE_ENV=production
